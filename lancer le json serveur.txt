@@ -1,0 +1,2 @@
+ne pas oublier de lancer npm serve
+de lancer le fichier json : json-server --watch ..\bdd-immo.json
